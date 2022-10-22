@@ -1,0 +1,250 @@
+"","nutrient","nutrient_type","units","dri_type","footnote","summary_type","value"
+"1","Calcium","Element","mg","RDA","","min_ref",700
+"2","Calcium","Element","mg","AI","*","min_ref",200
+"3","Calcium","Element","mg","UL","","min_ref",1000
+"4","Calcium","Element","mg","EAR",NA,"min_ref",500
+"5","Chloride","Element","g","UL","","min_ref",2.3
+"6","Chloride","Element","g","AI","*","min_ref",0.18
+"7","Choline","Vitamin","mg","AI","*","min_ref",125
+"8","Choline","Vitamin","mg","UL","","min_ref",1000
+"9","Chromium","Element","µg","AI","*","min_ref",0.2
+"10","Copper","Element","µg","EAR",NA,"min_ref",260
+"11","Copper","Element","µg","UL","","min_ref",1000
+"12","Copper","Element","µg","AI","*","min_ref",200
+"13","Copper","Element","µg","RDA","","min_ref",340
+"14","Folate (vitamin B9)","Vitamin","µg","RDA","","min_ref",150
+"15","Folate (vitamin B9)","Vitamin","µg","AI","*","min_ref",65
+"16","Folate (vitamin B9)","Vitamin","µg","UL","","min_ref",300
+"17","Folate (vitamin B9)","Vitamin","µg","EAR",NA,"min_ref",120
+"18","Iodine","Element","µg","AI","*","min_ref",110
+"19","Iodine","Element","µg","EAR",NA,"min_ref",65
+"20","Iodine","Element","µg","RDA","","min_ref",90
+"21","Iodine","Element","µg","UL","","min_ref",200
+"22","Iron","Element","mg","AI","*","min_ref",0.27
+"23","Iron","Element","mg","UL","","min_ref",40
+"24","Iron","Element","mg","RDA","","min_ref",7
+"25","Iron","Element","mg","EAR",NA,"min_ref",3
+"26","Linoleic acid","Macronutrient","g","AI","*","min_ref",4.4
+"27","Magnesium","Element","mg","EAR",NA,"min_ref",65
+"28","Magnesium","Element","mg","UL","","min_ref",65
+"29","Magnesium","Element","mg","RDA","","min_ref",80
+"30","Magnesium","Element","mg","AI","*","min_ref",30
+"31","Niacin","Vitamin","mg","UL","","min_ref",10
+"32","Niacin","Vitamin","mg","AI","*","min_ref",2
+"33","Niacin","Vitamin","mg","RDA","","min_ref",6
+"34","Niacin","Vitamin","mg","EAR",NA,"min_ref",5
+"35","Phosphorus","Element","mg","AI","*","min_ref",100
+"36","Phosphorus","Element","mg","UL","","min_ref",3000
+"37","Phosphorus","Element","mg","RDA","","min_ref",460
+"38","Phosphorus","Element","mg","EAR",NA,"min_ref",380
+"39","Potassium","Element","g","AI","*","min_ref",0.4
+"40","Protein","Macronutrient","g/kg","EAR",NA,"min_ref",0.66
+"41","Protein","Macronutrient","g","RDA","","min_ref",11
+"42","Protein","Macronutrient","g","AI","*","min_ref",9.1
+"43","Riboflavin","Vitamin","mg","RDA","","min_ref",0.5
+"44","Riboflavin","Vitamin","mg","AI","*","min_ref",0.3
+"45","Riboflavin","Vitamin","mg","EAR",NA,"min_ref",0.4
+"46","Selenium","Element","µg","RDA","","min_ref",20
+"47","Selenium","Element","µg","AI","*","min_ref",15
+"48","Selenium","Element","µg","UL","","min_ref",45
+"49","Selenium","Element","µg","EAR",NA,"min_ref",17
+"50","Sodium","Element","g","UL","","min_ref",1.5
+"51","Sodium","Element","g","AI","*","min_ref",0.12
+"52","Vitamin B1","Vitamin","mg","RDA","","min_ref",0.5
+"53","Vitamin B1","Vitamin","mg","AI","*","min_ref",0.2
+"54","Vitamin B1","Vitamin","mg","EAR",NA,"min_ref",0.4
+"55","Dietary fiber (total)","Macronutrient","g","AI","*","min_ref",19
+"56","Vitamin A","Vitamin","µg","UL","","min_ref",600
+"57","Vitamin A","Vitamin","µg","EAR",NA,"min_ref",210
+"58","Vitamin A","Vitamin","µg","AI","*","min_ref",400
+"59","Vitamin A","Vitamin","µg","RDA","","min_ref",300
+"60","Vitamin B12","Vitamin","µg","EAR",NA,"min_ref",0.7
+"61","Vitamin B12","Vitamin","µg","AI","*","min_ref",0.4
+"62","Vitamin B12","Vitamin","µg","RDA","","min_ref",0.9
+"63","Vitamin B6","Vitamin","mg","RDA","","min_ref",0.5
+"64","Vitamin B6","Vitamin","mg","UL","","min_ref",30
+"65","Vitamin B6","Vitamin","mg","AI","*","min_ref",0.1
+"66","Vitamin B6","Vitamin","mg","EAR",NA,"min_ref",0.4
+"67","Vitamin C","Vitamin","mg","UL","","min_ref",400
+"68","Vitamin C","Vitamin","mg","AI","*","min_ref",40
+"69","Vitamin C","Vitamin","mg","RDA","","min_ref",15
+"70","Vitamin C","Vitamin","mg","EAR",NA,"min_ref",13
+"71","Vitamin D","Vitamin","µg","EAR",NA,"min_ref",10
+"72","Vitamin D","Vitamin","µg","UL","","min_ref",25
+"73","Vitamin D","Vitamin","µg","RDA","","min_ref",10
+"74","Vitamin E","Vitamin","mg","EAR",NA,"min_ref",5
+"75","Vitamin E","Vitamin","mg","UL","","min_ref",200
+"76","Vitamin E","Vitamin","mg","AI","*","min_ref",4
+"77","Vitamin E","Vitamin","mg","RDA","","min_ref",6
+"78","Vitamin K","Vitamin","µg","AI","*","min_ref",2
+"79","Zinc","Element","mg","AI","*","min_ref",2
+"80","Zinc","Element","mg","EAR",NA,"min_ref",2.5
+"81","Zinc","Element","mg","RDA","","min_ref",3
+"82","Zinc","Element","mg","UL","","min_ref",4
+"83","Calcium","Element","mg","UL","","max_ref",3000
+"84","Calcium","Element","mg","AI","*","max_ref",260
+"85","Calcium","Element","mg","EAR",NA,"max_ref",1100
+"86","Calcium","Element","mg","RDA","","max_ref",1300
+"87","Chloride","Element","g","AI","*","max_ref",2.3
+"88","Chloride","Element","g","UL","","max_ref",3.6
+"89","Choline","Vitamin","mg","AI","*","max_ref",550
+"90","Choline","Vitamin","mg","UL","","max_ref",3500
+"91","Chromium","Element","µg","AI","*","max_ref",45
+"92","Copper","Element","µg","UL","","max_ref",10000
+"93","Copper","Element","µg","RDA","","max_ref",1300
+"94","Copper","Element","µg","EAR",NA,"max_ref",1000
+"95","Copper","Element","µg","AI","*","max_ref",220
+"96","Folate (vitamin B9)","Vitamin","µg","RDA","j","max_ref",600
+"97","Folate (vitamin B9)","Vitamin","µg","UL","","max_ref",1000
+"98","Folate (vitamin B9)","Vitamin","µg","EAR",NA,"max_ref",520
+"99","Folate (vitamin B9)","Vitamin","µg","AI","*","max_ref",80
+"100","Iodine","Element","µg","RDA","","max_ref",290
+"101","Iodine","Element","µg","UL","","max_ref",1100
+"102","Iodine","Element","µg","AI","*","max_ref",130
+"103","Iodine","Element","µg","EAR",NA,"max_ref",209
+"104","Iron","Element","mg","AI","*","max_ref",0.27
+"105","Iron","Element","mg","UL","","max_ref",45
+"106","Iron","Element","mg","EAR",NA,"max_ref",23
+"107","Iron","Element","mg","RDA","","max_ref",27
+"108","Linoleic acid","Macronutrient","g","AI","*","max_ref",17
+"109","Magnesium","Element","mg","UL","","max_ref",350
+"110","Magnesium","Element","mg","RDA","","max_ref",420
+"111","Magnesium","Element","mg","EAR",NA,"max_ref",350
+"112","Magnesium","Element","mg","AI","*","max_ref",75
+"113","Niacin","Vitamin","mg","RDA","","max_ref",18
+"114","Niacin","Vitamin","mg","EAR",NA,"max_ref",14
+"115","Niacin","Vitamin","mg","UL","","max_ref",35
+"116","Niacin","Vitamin","mg","AI","*","max_ref",4
+"117","Phosphorus","Element","mg","AI","*","max_ref",275
+"118","Phosphorus","Element","mg","UL","","max_ref",4000
+"119","Phosphorus","Element","mg","EAR",NA,"max_ref",1055
+"120","Phosphorus","Element","mg","RDA","","max_ref",1250
+"121","Potassium","Element","g","AI","*","max_ref",5.1
+"122","Protein","Macronutrient","g/kg","EAR",NA,"max_ref",1.05
+"123","Protein","Macronutrient","g","RDA","","max_ref",71
+"124","Protein","Macronutrient","g","AI","*","max_ref",9.1
+"125","Riboflavin","Vitamin","mg","AI","*","max_ref",0.4
+"126","Riboflavin","Vitamin","mg","RDA","","max_ref",1.6
+"127","Riboflavin","Vitamin","mg","EAR",NA,"max_ref",1.3
+"128","Selenium","Element","µg","UL","","max_ref",400
+"129","Selenium","Element","µg","EAR",NA,"max_ref",59
+"130","Selenium","Element","µg","RDA","","max_ref",70
+"131","Selenium","Element","µg","AI","*","max_ref",20
+"132","Sodium","Element","g","UL","","max_ref",2.3
+"133","Sodium","Element","g","AI","*","max_ref",1.5
+"134","Vitamin B1","Vitamin","mg","RDA","","max_ref",1.4
+"135","Vitamin B1","Vitamin","mg","EAR",NA,"max_ref",1.2
+"136","Vitamin B1","Vitamin","mg","AI","*","max_ref",0.3
+"137","Dietary fiber (total)","Macronutrient","g","AI","*","max_ref",38
+"138","Vitamin A","Vitamin","µg","UL","","max_ref",3000
+"139","Vitamin A","Vitamin","µg","EAR",NA,"max_ref",900
+"140","Vitamin A","Vitamin","µg","RDA","","max_ref",1300
+"141","Vitamin A","Vitamin","µg","AI","*","max_ref",500
+"142","Vitamin B12","Vitamin","µg","EAR",NA,"max_ref",2.4
+"143","Vitamin B12","Vitamin","µg","AI","*","max_ref",0.5
+"144","Vitamin B12","Vitamin","µg","RDA","","max_ref",2.8
+"145","Vitamin B6","Vitamin","mg","UL","","max_ref",100
+"146","Vitamin B6","Vitamin","mg","AI","*","max_ref",0.3
+"147","Vitamin B6","Vitamin","mg","RDA","","max_ref",2
+"148","Vitamin B6","Vitamin","mg","EAR",NA,"max_ref",1.7
+"149","Vitamin C","Vitamin","mg","EAR",NA,"max_ref",100
+"150","Vitamin C","Vitamin","mg","UL","","max_ref",2000
+"151","Vitamin C","Vitamin","mg","AI","*","max_ref",50
+"152","Vitamin C","Vitamin","mg","RDA","","max_ref",120
+"153","Vitamin D","Vitamin","µg","EAR",NA,"max_ref",10
+"154","Vitamin D","Vitamin","µg","RDA","","max_ref",20
+"155","Vitamin D","Vitamin","µg","UL","","max_ref",100
+"156","Vitamin E","Vitamin","mg","UL","","max_ref",1000
+"157","Vitamin E","Vitamin","mg","EAR",NA,"max_ref",16
+"158","Vitamin E","Vitamin","mg","RDA","","max_ref",19
+"159","Vitamin E","Vitamin","mg","AI","*","max_ref",5
+"160","Vitamin K","Vitamin","µg","AI","*","max_ref",120
+"161","Zinc","Element","mg","UL","","max_ref",40
+"162","Zinc","Element","mg","AI","*","max_ref",2
+"163","Zinc","Element","mg","EAR",NA,"max_ref",10.9
+"164","Zinc","Element","mg","RDA","","max_ref",13
+"165","Calcium","Element","mg","UL","","mean_ref",2431.81818181818
+"166","Calcium","Element","mg","RDA","","mean_ref",1105
+"167","Calcium","Element","mg","AI","*","mean_ref",230
+"168","Calcium","Element","mg","EAR",NA,"mean_ref",895
+"169","Chloride","Element","g","AI","*","mean_ref",1.99772727272727
+"170","Chloride","Element","g","UL","","mean_ref",3.48
+"171","Choline","Vitamin","mg","AI","*","mean_ref",423.863636363636
+"172","Choline","Vitamin","mg","UL","","mean_ref",3000
+"173","Chromium","Element","µg","AI","*","mean_ref",26.35
+"174","Copper","Element","µg","EAR",NA,"mean_ref",701
+"175","Copper","Element","µg","RDA","","mean_ref",903
+"176","Copper","Element","µg","UL","","mean_ref",8300
+"177","Copper","Element","µg","AI","*","mean_ref",210
+"178","Folate (vitamin B9)","Vitamin","µg","EAR",NA,"mean_ref",345.5
+"179","Folate (vitamin B9)","Vitamin","µg","RDA","","mean_ref",412.5
+"180","Folate (vitamin B9)","Vitamin","µg","RDA","j","mean_ref",412.5
+"181","Folate (vitamin B9)","Vitamin","µg","RDA","i","mean_ref",412.5
+"182","Folate (vitamin B9)","Vitamin","µg","UL","","mean_ref",855
+"183","Folate (vitamin B9)","Vitamin","µg","AI","*","mean_ref",72.5
+"184","Iodine","Element","µg","RDA","","mean_ref",172.5
+"185","Iodine","Element","µg","UL","","mean_ref",925
+"186","Iodine","Element","µg","EAR",NA,"mean_ref",116.65
+"187","Iodine","Element","µg","AI","*","mean_ref",120
+"188","Iron","Element","mg","RDA","","mean_ref",12.5238095238095
+"189","Iron","Element","mg","AI","*","mean_ref",0.27
+"190","Iron","Element","mg","EAR",NA,"mean_ref",8.4952380952381
+"191","Iron","Element","mg","UL","","mean_ref",43.6363636363636
+"192","Linoleic acid","Macronutrient","g","AI","*","mean_ref",11.8636363636364
+"193","Magnesium","Element","mg","UL","","mean_ref",323.75
+"194","Magnesium","Element","mg","EAR",NA,"mean_ref",269.5
+"195","Magnesium","Element","mg","RDA","","mean_ref",324.5
+"196","Magnesium","Element","mg","AI","*","mean_ref",52.5
+"197","Niacin","Vitamin","mg","RDA","","mean_ref",14.65
+"198","Niacin","Vitamin","mg","EAR",NA,"mean_ref",11.25
+"199","Niacin","Vitamin","mg","UL","","mean_ref",30.25
+"200","Niacin","Vitamin","mg","AI","*","mean_ref",3
+"201","Phosphorus","Element","mg","AI","*","mean_ref",187.5
+"202","Phosphorus","Element","mg","UL","","mean_ref",3725
+"203","Phosphorus","Element","mg","EAR",NA,"mean_ref",703.75
+"204","Phosphorus","Element","mg","RDA","","mean_ref",843
+"205","Potassium","Element","g","AI","*","mean_ref",4.24090909090909
+"206","Protein","Macronutrient","g/kg","EAR",NA,"mean_ref",0.793333333333333
+"207","Protein","Macronutrient","g","RDA","","mean_ref",49.6666666666667
+"208","Protein","Macronutrient","g","AI","*","mean_ref",9.1
+"209","Riboflavin","Vitamin","mg","RDA","","mean_ref",1.19
+"210","Riboflavin","Vitamin","mg","AI","*","mean_ref",0.35
+"211","Riboflavin","Vitamin","mg","EAR",NA,"mean_ref",1
+"212","Selenium","Element","µg","UL","","mean_ref",332.045454545455
+"213","Selenium","Element","µg","EAR",NA,"mean_ref",44.2
+"214","Selenium","Element","µg","RDA","","mean_ref",53.5
+"215","Selenium","Element","µg","AI","*","mean_ref",17.5
+"216","Sodium","Element","g","UL","","mean_ref",2.23
+"217","Sodium","Element","g","AI","*","mean_ref",1.30409090909091
+"218","Vitamin B1","Vitamin","mg","EAR",NA,"mean_ref",0.95
+"219","Vitamin B1","Vitamin","mg","RDA","","mean_ref",1.135
+"220","Vitamin B1","Vitamin","mg","AI","*","mean_ref",0.25
+"221","Dietary fiber (total)","Macronutrient","g","AI","*","mean_ref",28.2
+"222","Vitamin A","Vitamin","µg","EAR",NA,"mean_ref",564
+"223","Vitamin A","Vitamin","µg","UL","","mean_ref",2422.72727272727
+"224","Vitamin A","Vitamin","µg","RDA","","mean_ref",799.5
+"225","Vitamin A","Vitamin","µg","AI","*","mean_ref",450
+"226","Vitamin B12","Vitamin","µg","RDA","h","mean_ref",2.295
+"227","Vitamin B12","Vitamin","µg","EAR",NA,"mean_ref",1.925
+"228","Vitamin B12","Vitamin","µg","RDA","","mean_ref",2.295
+"229","Vitamin B12","Vitamin","µg","AI","*","mean_ref",0.45
+"230","Vitamin B6","Vitamin","mg","RDA","","mean_ref",1.445
+"231","Vitamin B6","Vitamin","mg","UL","","mean_ref",85.5
+"232","Vitamin B6","Vitamin","mg","AI","*","mean_ref",0.2
+"233","Vitamin B6","Vitamin","mg","EAR",NA,"mean_ref",1.215
+"234","Vitamin C","Vitamin","mg","EAR",NA,"mean_ref",63.7
+"235","Vitamin C","Vitamin","mg","UL","","mean_ref",1732.5
+"236","Vitamin C","Vitamin","mg","RDA","","mean_ref",76.75
+"237","Vitamin C","Vitamin","mg","AI","*","mean_ref",45
+"238","Vitamin D","Vitamin","µg","EAR",NA,"mean_ref",10
+"239","Vitamin D","Vitamin","µg","RDA","","mean_ref",15
+"240","Vitamin D","Vitamin","µg","UL","","mean_ref",90.9545454545455
+"241","Vitamin E","Vitamin","mg","UL","","mean_ref",845
+"242","Vitamin E","Vitamin","mg","EAR",NA,"mean_ref",11.65
+"243","Vitamin E","Vitamin","mg","RDA","","mean_ref",14.35
+"244","Vitamin E","Vitamin","mg","AI","*","mean_ref",4.5
+"245","Vitamin K","Vitamin","µg","AI","*","mean_ref",77.7045454545455
+"246","Zinc","Element","mg","UL","","mean_ref",31.3636363636364
+"247","Zinc","Element","mg","EAR",NA,"mean_ref",7.84761904761905
+"248","Zinc","Element","mg","AI","*","mean_ref",2
+"249","Zinc","Element","mg","RDA","","mean_ref",9.23809523809524
